@@ -25,7 +25,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "20.7.1",
+    "@types/node": "20.8.0",
     "@types/react": "18.2.24",
     "husky": "8.0.3",
     "lint-staged": "13.2.3",
