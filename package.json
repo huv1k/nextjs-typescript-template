@@ -28,7 +28,7 @@
     "@types/node": "20.14.12",
     "@types/react": "18.3.13",
     "husky": "8.0.3",
-    "lint-staged": "13.2.3",
+    "lint-staged": "16.1.6",
     "prettier": "3.6.2",
     "typescript": "5.9.2"
   },
